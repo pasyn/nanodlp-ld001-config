@@ -16,7 +16,7 @@ The Creality LD-001 is an entry level LCD resin printer. The original Chinese so
 7. Open up the IP address of the printer in your web browser
 8. Check for updates. Printer will restart after update.
 9. Navigate to the tools menu and click on the expand filesystem button. The printer will reboot after the operation is completed.
-10. Enter the following configuration into the machine settings menu.
+10. In the tools menu, click import machine settings and import setup-ld001.json
 
 ```
 WIP
